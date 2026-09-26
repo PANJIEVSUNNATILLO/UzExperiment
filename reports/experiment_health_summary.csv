@@ -1,0 +1,10 @@
+check,result,evidence
+Sample Ratio Mismatch,PASS,SRM p-value = 0.3296
+Duplicate user IDs,PASS,0 duplicates
+Missing variants,PASS,0 missing
+Invalid conversion values,PASS,0 invalid values
+Negative order values,PASS,0 negative values
+Missing payment outcomes,PASS,0 missing among converters
+Conversion 95% CI excludes zero,PASS,"CI = [0.96%, 2.08%]"
+Revenue bootstrap 95% CI excludes zero,PASS,"CI = [1,900, 7,265] UZS"
+Payment guardrail deterioration,PASS,93.14% → 93.43%

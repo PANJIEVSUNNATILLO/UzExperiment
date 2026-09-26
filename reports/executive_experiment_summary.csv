@@ -1,0 +1,5 @@
+metric,Control (A),Treatment (B),Change,Role
+Conversion rate,10.78%,12.30%,+1.52%,Primary metric
+Revenue per user,"37,315 UZS","41,924 UZS","+4,609 UZS",Business metric
+CUPED revenue per user,"37,068 UZS","42,169 UZS","+5,101 UZS",Variance-reduced metric
+Payment success rate,93.14%,93.43%,+0.28%,Guardrail
